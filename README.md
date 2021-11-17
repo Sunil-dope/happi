@@ -1,4 +1,5 @@
-happi is AIML discord bot.
+Happi is a discord bot.
+Specialy designed for school students.
 
 ## Bot commands
 ### Time Table
